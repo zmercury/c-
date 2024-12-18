@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\A_Basic_IO\\c_add_two_nums\\c_add_two_nums.csproj": {}
+    "D:\\collegeNotes\\c-\\A_Basic_IO\\c_add_two_nums\\c_add_two_nums.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\A_Basic_IO\\c_add_two_nums\\c_add_two_nums.csproj": {
+    "D:\\collegeNotes\\c-\\A_Basic_IO\\c_add_two_nums\\c_add_two_nums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\A_Basic_IO\\c_add_two_nums\\c_add_two_nums.csproj",
+        "projectUniqueName": "D:\\collegeNotes\\c-\\A_Basic_IO\\c_add_two_nums\\c_add_two_nums.csproj",
         "projectName": "c_add_two_nums",
-        "projectPath": "D:\\SCVPB6\\A_Basic_IO\\c_add_two_nums\\c_add_two_nums.csproj",
-        "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\A_Basic_IO\\c_add_two_nums\\obj\\",
+        "projectPath": "D:\\collegeNotes\\c-\\A_Basic_IO\\c_add_two_nums\\c_add_two_nums.csproj",
+        "packagesPath": "C:\\Users\\messi\\.nuget\\packages\\",
+        "outputPath": "D:\\collegeNotes\\c-\\A_Basic_IO\\c_add_two_nums\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Vijaya Malla\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\messi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

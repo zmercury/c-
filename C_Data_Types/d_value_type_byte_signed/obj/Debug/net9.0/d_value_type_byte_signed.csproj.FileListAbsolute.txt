@@ -1,0 +1,14 @@
+D:\csharp\C_Data_Types\d_value_type_byte_signed\bin\Debug\net9.0\d_value_type_byte_signed.exe
+D:\csharp\C_Data_Types\d_value_type_byte_signed\bin\Debug\net9.0\d_value_type_byte_signed.deps.json
+D:\csharp\C_Data_Types\d_value_type_byte_signed\bin\Debug\net9.0\d_value_type_byte_signed.runtimeconfig.json
+D:\csharp\C_Data_Types\d_value_type_byte_signed\bin\Debug\net9.0\d_value_type_byte_signed.dll
+D:\csharp\C_Data_Types\d_value_type_byte_signed\bin\Debug\net9.0\d_value_type_byte_signed.pdb
+D:\csharp\C_Data_Types\d_value_type_byte_signed\obj\Debug\net9.0\d_value_type_byte_signed.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\C_Data_Types\d_value_type_byte_signed\obj\Debug\net9.0\d_value_type_byte_signed.AssemblyInfoInputs.cache
+D:\csharp\C_Data_Types\d_value_type_byte_signed\obj\Debug\net9.0\d_value_type_byte_signed.AssemblyInfo.cs
+D:\csharp\C_Data_Types\d_value_type_byte_signed\obj\Debug\net9.0\d_value_type_byte_signed.csproj.CoreCompileInputs.cache
+D:\csharp\C_Data_Types\d_value_type_byte_signed\obj\Debug\net9.0\d_value_type_byte_signed.dll
+D:\csharp\C_Data_Types\d_value_type_byte_signed\obj\Debug\net9.0\refint\d_value_type_byte_signed.dll
+D:\csharp\C_Data_Types\d_value_type_byte_signed\obj\Debug\net9.0\d_value_type_byte_signed.pdb
+D:\csharp\C_Data_Types\d_value_type_byte_signed\obj\Debug\net9.0\d_value_type_byte_signed.genruntimeconfig.cache
+D:\csharp\C_Data_Types\d_value_type_byte_signed\obj\Debug\net9.0\ref\d_value_type_byte_signed.dll
