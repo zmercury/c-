@@ -1,0 +1,15 @@
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\bin\Debug\net9.0\f_reference_type_object.exe
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\bin\Debug\net9.0\f_reference_type_object.deps.json
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\bin\Debug\net9.0\f_reference_type_object.runtimeconfig.json
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\bin\Debug\net9.0\f_reference_type_object.dll
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\bin\Debug\net9.0\f_reference_type_object.pdb
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.GeneratedMSBuildEditorConfig.editorconfig
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.AssemblyInfoInputs.cache
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.AssemblyInfo.cs
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.csproj.CoreCompileInputs.cache
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.sourcelink.json
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.dll
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\refint\f_reference_type_object.dll
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.pdb
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.genruntimeconfig.cache
+D:\collegeNotes\c-\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\ref\f_reference_type_object.dll
